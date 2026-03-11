@@ -1,0 +1,401 @@
+policy_id,customer_name,agent_name,insurance_service,policy_term_years,region,province,payment_schedule,premium_per_payment,annual_premium,payments_per_year,face_amount,policy_status,agent_commission,start_date,claim_date,claim_amount,total_premium,payment_status
+1,Teresa Santos,John Michael Cruz,Term Life,20,NCR,Makati,Annually,11685.2,11685.2,1,750000,Active,1168.52,24/02/2018 0:00,,,233704,paid
+2,Teresa Ortega,David Lim,Term Life,20,NCR,Manila,Annually,11862.39,11862.39,1,750000,Active,1186.24,19/04/2017 0:00,,,237247.8,paid
+3,Sofia Dela Cruz,David Lim,Health Insurance,1,Central Luzon,Tarlac,Monthly,13221.88,158662.54,12,5000000,Active,15866.25,30/10/2024 0:00,,,158662.54,paid
+4,Maria Pascual,Liza Reyes,VUL,25,NCR,Manila,Quarterly,4656.72,18626.86,4,1500000,Active,1862.69,09/10/2023 0:00,,,465671.5,paid
+8,Miguel Lim,Ana Patricia Garcia,Accident Insurance,1,Central Luzon,Pampanga,Quarterly,4041.84,16167.38,4,750000,Active,1616.74,06/03/2024 0:00,,,16167.38,paid
+9,Andres Villanueva,Ana Patricia Garcia,Term Life,20,NCR,Manila,Quarterly,22357.91,89431.63,4,5000000,Active,8943.16,29/09/2017 0:00,,,1788632.6,paid
+11,Maria Castro,Mark Santos,Accident Insurance,1,CALABARZON,Quezon,Monthly,2381.24,28574.87,12,1500000,Active,2857.49,19/09/2022 0:00,,,28574.87,paid
+13,Rafael Ortega,Carlos Mendoza,Accident Insurance,1,NCR,Manila,Quarterly,24089.78,96359.13,4,3000000,Active,9635.91,10/03/2024 0:00,,,96359.13,paid
+16,Victor Castro,Mark Santos,VUL,25,CALABARZON,Batangas,Annually,8010.89,8010.89,1,500000,Active,801.09,19/11/2017 0:00,,,200272.25,paid
+17,Diego Ortega,David Lim,Accident Insurance,1,NCR,Quezon City,Annually,65646.18,65646.18,1,3000000,Active,6564.62,08/11/2018 0:00,,,65646.18,paid
+18,Clara Navarro,Mark Santos,Accident Insurance,1,Central Luzon,Pampanga,Annually,53378.72,53378.72,1,3000000,Active,5337.87,15/04/2024 0:00,,,53378.72,paid
+19,Juan Santos,Jenna Flores,Whole Life,65,NCR,Manila,Annually,10525.86,10525.86,1,1000000,Active,1052.59,01/08/2019 0:00,,,684180.9,paid
+21,Marco Flores,John Michael Cruz,Accident Insurance,1,Central Luzon,Nueva Ecija,Quarterly,5552.9,22211.61,4,750000,Active,2221.16,19/02/2019 0:00,,,22211.61,paid
+22,Isabella Domingo,Mark Santos,Health Insurance,1,CALABARZON,Laguna,Annually,79009.16,79009.16,1,3000000,Active,7900.92,08/02/2018 0:00,,,79009.16,on-going
+25,Paolo Mendoza,Liza Reyes,Health Insurance,1,CALABARZON,Batangas,Monthly,8344.17,100130.04,12,5000000,Active,10013,06/11/2018 0:00,,,100130.04,on-going
+26,Maria Aquino,Jenna Flores,VUL,25,CALABARZON,Quezon,Monthly,6990.05,83880.62,12,3000000,Active,8388.06,17/02/2019 0:00,,,2097015.5,on-going
+27,Clara Santos,Carlos Mendoza,VUL,25,NCR,Manila,Annually,43839.43,43839.43,1,2000000,Active,4383.94,07/10/2018 0:00,,,1095985.75,on-going
+31,Daniel Villanueva,Mark Santos,Accident Insurance,1,Central Luzon,Bulacan,Annually,11720.43,11720.43,1,500000,Active,1172.04,23/12/2019 0:00,,,11720.43,on-going
+33,Rafael Aquino,David Lim,Term Life,20,NCR,Makati,Annually,16121.41,16121.41,1,500000,Active,1612.14,17/03/2023 0:00,,,322428.2,on-going
+34,Sofia Reyes,Jenna Flores,VUL,25,NCR,Makati,Monthly,3702.22,44426.59,12,2000000,Active,4442.66,14/01/2018 0:00,,,1110664.75,on-going
+35,Juan Santos,Mark Santos,VUL,25,NCR,Makati,Annually,21398.08,21398.08,1,750000,Active,2139.81,30/11/2024 0:00,,,534952,on-going
+39,Miguel Garcia,Jenna Flores,Term Life,20,CALABARZON,Laguna,Monthly,9069.69,108836.25,12,5000000,Active,10883.62,01/03/2022 0:00,,,2176725,on-going
+41,Marco Flores,Ana Patricia Garcia,Term Life,20,NCR,Makati,Quarterly,4596.52,18386.06,4,750000,Active,1838.61,06/06/2017 0:00,,,367721.2,on-going
+42,Marco Reyes,David Lim,Health Insurance,1,Central Luzon,Zambales,Annually,9814.94,9814.94,1,500000,Active,981.49,18/02/2019 0:00,,,9814.94,on-going
+43,Ana Pascual,Patrick Ortega,VUL,25,CALABARZON,Laguna,Annually,99057.81,99057.81,1,3000000,Active,9905.78,09/07/2020 0:00,,,2476445.25,on-going
+44,Marco Lim,John Michael Cruz,Accident Insurance,1,CALABARZON,Rizal,Quarterly,5015,20060.01,4,1000000,Active,2006,21/03/2023 0:00,,,20060.01,on-going
+46,Rafael Gutierrez,Ana Patricia Garcia,Health Insurance,1,CALABARZON,Rizal,Quarterly,11506.9,46027.61,4,3000000,Active,4602.76,27/11/2018 0:00,,,46027.61,on-going
+47,Victor Aquino,Mark Santos,Term Life,20,NCR,Makati,Monthly,1885.25,22623.05,12,750000,Active,2262.3,11/04/2017 0:00,,,452461,on-going
+48,Luis Lim,Jenna Flores,Health Insurance,1,CALABARZON,Quezon,Quarterly,5242.25,20968.99,4,750000,Active,2096.9,18/07/2022 0:00,,,20968.99,on-going
+49,Teresa Garcia,Mark Santos,Term Life,20,CALABARZON,Batangas,Annually,22577.06,22577.06,1,750000,Active,2257.71,23/10/2022 0:00,,,451541.2,on-going
+50,Elena Aquino,John Michael Cruz,Health Insurance,1,NCR,Pasig,Annually,69834.89,69834.89,1,3000000,Active,6983.49,05/09/2023 0:00,,,69834.89,on-going
+52,Teresa Santos,Carlos Mendoza,VUL,25,CALABARZON,Laguna,Quarterly,12857.4,51429.61,4,3000000,Active,5142.96,07/10/2020 0:00,,,1285740.25,on-going
+53,Isabella Gutierrez,Liza Reyes,Whole Life,65,NCR,Pasig,Monthly,3455.03,41460.39,12,3000000,Active,4146.04,21/09/2017 0:00,,,2694925.35,paid
+54,Andres Ortega,Liza Reyes,Health Insurance,1,NCR,Quezon City,Annually,102517.94,102517.94,1,5000000,Active,10251.79,19/10/2024 0:00,,,102517.94,paid
+57,Marco Dela Cruz,Liza Reyes,Accident Insurance,1,Central Luzon,Bulacan,Annually,37195.98,37195.98,1,1500000,Active,3719.6,22/04/2017 0:00,,,37195.98,paid
+59,Jose Domingo,Jenna Flores,VUL,25,NCR,Pasig,Monthly,1196.9,14362.8,12,500000,Active,1436.28,04/12/2020 0:00,,,359070,paid
+60,Ana Aquino,David Lim,Term Life,20,NCR,Quezon City,Monthly,4378.96,52547.5,12,5000000,Active,5254.75,05/09/2019 0:00,,,1050950,paid
+63,Ana Domingo,Jenna Flores,Term Life,20,Central Luzon,Pampanga,Quarterly,3428.73,13714.91,4,500000,Active,1371.49,03/09/2024 0:00,,,274298.2,paid
+64,Marco Castro,Liza Reyes,VUL,25,Central Luzon,Nueva Ecija,Annually,57792.82,57792.82,1,3000000,Active,5779.28,06/04/2024 0:00,,,1444820.5,paid
+65,Carlos Pascual,Patrick Ortega,Term Life,20,CALABARZON,Cavite,Quarterly,24217.03,96868.13,4,3000000,Active,9686.81,07/12/2024 0:00,,,1937362.6,paid
+66,Miguel Castro,Mark Santos,Accident Insurance,1,Central Luzon,Nueva Ecija,Annually,31334.04,31334.04,1,1500000,Active,3133.4,24/08/2023 0:00,,,31334.04,paid
+67,Juan Navarro,Ana Patricia Garcia,VUL,25,CALABARZON,Batangas,Annually,108088.56,108088.56,1,5000000,Active,10808.86,29/06/2024 0:00,,,2702214,paid
+70,Victor Gutierrez,Ana Patricia Garcia,Term Life,20,CALABARZON,Batangas,Quarterly,10235.5,40942.02,4,1500000,Active,4094.2,12/06/2024 0:00,,,818840.4,paid
+71,Miguel Santos,David Lim,Health Insurance,1,Central Luzon,Zambales,Quarterly,4698.81,18795.26,4,1000000,Active,1879.53,15/01/2020 0:00,,,18795.26,paid
+75,Maria Dela Cruz,Carlos Mendoza,Term Life,20,CALABARZON,Rizal,Quarterly,3819.11,15276.45,4,500000,Active,1527.65,08/07/2022 0:00,,,305529,paid
+76,Diego Garcia,John Michael Cruz,Accident Insurance,1,CALABARZON,Laguna,Quarterly,2430.24,9720.97,4,750000,Active,972.1,20/10/2023 0:00,,,9720.97,paid
+77,Maria Aquino,Mark Santos,Health Insurance,1,CALABARZON,Cavite,Quarterly,30891.41,123565.64,4,5000000,Active,12356.56,04/06/2020 0:00,,,123565.64,paid
+80,Sofia Castro,Carlos Mendoza,Accident Insurance,1,Central Luzon,Pampanga,Monthly,1608.68,19304.11,12,1500000,Active,1930.41,06/04/2024 0:00,,,19304.11,paid
+82,Maria Villanueva,John Michael Cruz,VUL,25,Central Luzon,Nueva Ecija,Quarterly,5627.95,22511.8,4,1000000,Active,2251.18,29/11/2021 0:00,,,562795,paid
+83,Juan Domingo,Patrick Ortega,VUL,25,Central Luzon,Tarlac,Annually,6141.59,6141.59,1,500000,Active,614.16,15/06/2023 0:00,,,153539.75,paid
+84,Andres Ortega,Liza Reyes,Accident Insurance,1,NCR,Quezon City,Quarterly,8615.28,34461.14,4,1500000,Active,3446.11,14/02/2020 0:00,,,34461.14,paid
+86,Sofia Flores,Mark Santos,VUL,25,Central Luzon,Nueva Ecija,Monthly,12088.54,145062.47,12,5000000,Active,14506.25,06/02/2022 0:00,,,3626561.75,paid
+87,Clara Flores,Liza Reyes,Health Insurance,1,Central Luzon,Bulacan,Quarterly,23800.64,95202.56,4,3000000,Active,9520.26,20/08/2021 0:00,,,95202.56,paid
+89,Ana Navarro,Mark Santos,Accident Insurance,1,NCR,Quezon City,Annually,23770.98,23770.98,1,1000000,Active,2377.1,30/07/2021 0:00,,,23770.98,paid
+91,Marco Flores,Patrick Ortega,Health Insurance,1,NCR,Taguig,Monthly,4776.22,57314.63,12,2000000,Active,5731.46,13/10/2017 0:00,,,57314.63,paid
+96,Paolo Lim,Mark Santos,Health Insurance,1,Central Luzon,Pampanga,Quarterly,2717.16,10868.63,4,500000,Active,1086.86,18/10/2020 0:00,,,10868.63,paid
+99,Miguel Gutierrez,John Michael Cruz,Term Life,20,NCR,Makati,Quarterly,14253.73,57014.9,4,5000000,Active,5701.49,16/03/2021 0:00,,,1140298,paid
+100,Miguel Navarro,Carlos Mendoza,Accident Insurance,1,Central Luzon,Pampanga,Annually,10782.55,10782.55,1,750000,Active,1078.25,16/04/2021 0:00,,,10782.55,paid
+102,Rafael Garcia,John Michael Cruz,Health Insurance,1,CALABARZON,Quezon,Quarterly,6493.37,25973.47,4,1000000,Active,2597.35,28/09/2024 0:00,,,25973.47,paid
+106,Rafael Flores,John Michael Cruz,Term Life,20,CALABARZON,Rizal,Annually,12244.67,12244.67,1,500000,Active,1224.47,23/06/2018 0:00,,,244893.4,paid
+109,Elena Flores,Patrick Ortega,Health Insurance,1,Central Luzon,Tarlac,Monthly,1240.29,14883.52,12,500000,Active,1488.35,20/12/2019 0:00,,,14883.52,paid
+110,Teresa Flores,David Lim,Accident Insurance,1,CALABARZON,Cavite,Quarterly,3358.86,13435.46,4,500000,Active,1343.55,13/04/2017 0:00,,,13435.46,paid
+111,Maria Mendoza,Liza Reyes,Term Life,20,Central Luzon,Nueva Ecija,Quarterly,13166.07,52664.26,4,3000000,Active,5266.43,23/04/2018 0:00,,,1053285.2,paid
+112,Teresa Ortega,Carlos Mendoza,Term Life,20,NCR,Quezon City,Quarterly,6695.8,26783.2,4,2000000,Active,2678.32,28/02/2021 0:00,,,535664,paid
+113,Daniel Garcia,Liza Reyes,Health Insurance,1,Central Luzon,Bulacan,Quarterly,27792.1,111168.38,4,5000000,Active,11116.84,20/02/2020 0:00,,,111168.38,paid
+115,Diego Reyes,Jenna Flores,VUL,25,NCR,Manila,Monthly,12751.99,153023.89,12,5000000,Active,15302.39,07/06/2024 0:00,,,3825597.25,paid
+116,Angela Castro,David Lim,VUL,25,NCR,Quezon City,Monthly,10047.69,120572.25,12,5000000,Active,12057.23,21/03/2023 0:00,,,3014306.25,paid
+117,Carlos Santos,Jenna Flores,VUL,25,NCR,Taguig,Monthly,705.5,8465.94,12,500000,Active,846.59,17/06/2018 0:00,,,211648.5,paid
+119,Ana Navarro,David Lim,Health Insurance,1,Central Luzon,Bulacan,Quarterly,8691.71,34766.85,4,3000000,Active,3476.68,22/01/2021 0:00,,,34766.85,paid
+121,Luis Mendoza,Ana Patricia Garcia,Health Insurance,1,Central Luzon,Nueva Ecija,Quarterly,4060.21,16240.83,4,500000,Active,1624.08,28/10/2023 0:00,,,16240.83,paid
+122,Ana Castro,David Lim,Health Insurance,1,Central Luzon,Zambales,Annually,21342.89,21342.89,1,1000000,Active,2134.29,29/10/2021 0:00,,,21342.89,paid
+123,Ana Flores,John Michael Cruz,Health Insurance,1,CALABARZON,Batangas,Quarterly,6927.48,27709.94,4,1500000,Active,2770.99,22/06/2021 0:00,,,27709.94,paid
+124,Jose Santos,John Michael Cruz,VUL,25,Central Luzon,Tarlac,Annually,33839.81,33839.81,1,1000000,Active,3383.98,27/04/2022 0:00,,,845995.25,paid
+126,Daniel Santos,David Lim,Health Insurance,1,CALABARZON,Rizal,Monthly,13706.7,164480.46,12,5000000,Active,16448.05,24/03/2020 0:00,,,164480.46,paid
+128,Sofia Reyes,Carlos Mendoza,Health Insurance,1,Central Luzon,Zambales,Annually,53748.84,53748.84,1,2000000,Active,5374.88,18/04/2017 0:00,,,53748.84,paid
+129,Paolo Santos,Carlos Mendoza,VUL,25,Central Luzon,Tarlac,Monthly,1564.63,18775.59,12,1000000,Active,1877.56,10/08/2018 0:00,,,469389.75,paid
+130,Rafael Pascual,Ana Patricia Garcia,Term Life,20,NCR,Taguig,Quarterly,3638.41,14553.65,4,750000,Active,1455.37,28/10/2020 0:00,,,291073,paid
+131,Sofia Navarro,John Michael Cruz,Accident Insurance,1,Central Luzon,Bulacan,Annually,6944.75,6944.75,1,500000,Active,694.48,23/07/2017 0:00,,,6944.75,paid
+132,Ana Mendoza,Liza Reyes,Health Insurance,1,Central Luzon,Nueva Ecija,Annually,25243.76,25243.76,1,1500000,Active,2524.38,12/04/2018 0:00,,,25243.76,paid
+133,Rafael Garcia,Carlos Mendoza,Accident Insurance,1,Central Luzon,Tarlac,Annually,7756.48,7756.48,1,500000,Active,775.65,13/08/2017 0:00,,,7756.48,paid
+134,Paolo Gutierrez,David Lim,VUL,25,CALABARZON,Cavite,Annually,5096.62,5096.62,1,500000,Active,509.66,30/10/2021 0:00,,,127415.5,paid
+135,Elena Villanueva,Mark Santos,Accident Insurance,1,Central Luzon,Tarlac,Annually,9963.39,9963.39,1,500000,Active,996.34,23/06/2017 0:00,,,9963.39,paid
+136,Paolo Reyes,Ana Patricia Garcia,VUL,25,Central Luzon,Nueva Ecija,Annually,40221.14,40221.14,1,2000000,Active,4022.11,07/09/2021 0:00,,,1005528.5,paid
+138,Carlos Santos,Mark Santos,Accident Insurance,1,CALABARZON,Quezon,Quarterly,2486.77,9947.08,4,500000,Active,994.71,22/10/2020 0:00,,,9947.08,paid
+140,Andres Domingo,Liza Reyes,Accident Insurance,1,NCR,Manila,Annually,25336.73,25336.73,1,750000,Active,2533.67,17/07/2022 0:00,,,25336.73,paid
+141,Jose Navarro,Liza Reyes,Accident Insurance,1,Central Luzon,Zambales,Annually,31606.17,31606.17,1,1000000,Active,3160.62,18/07/2020 0:00,,,31606.17,paid
+142,Maria Reyes,Ana Patricia Garcia,VUL,25,CALABARZON,Quezon,Monthly,783.27,9399.28,12,500000,Active,939.93,25/06/2020 0:00,,,234982,paid
+143,Maria Navarro,David Lim,VUL,25,NCR,Manila,Quarterly,12426,49703.99,4,2000000,Active,4970.4,11/03/2022 0:00,,,1242599.75,paid
+144,Isabella Pascual,Mark Santos,VUL,25,Central Luzon,Nueva Ecija,Monthly,2295.25,27543.05,12,2000000,Active,2754.31,20/01/2022 0:00,,,688576.25,paid
+145,Diego Dela Cruz,Ana Patricia Garcia,Accident Insurance,1,Central Luzon,Pampanga,Quarterly,2024.2,8096.8,4,500000,Active,809.68,05/12/2021 0:00,,,8096.8,paid
+146,Isabella Santos,Ana Patricia Garcia,VUL,25,CALABARZON,Rizal,Annually,44042.43,44042.43,1,1500000,Active,4404.24,15/09/2023 0:00,,,1101060.75,paid
+148,Isabella Castro,Carlos Mendoza,VUL,25,CALABARZON,Rizal,Monthly,1554.75,18657.02,12,750000,Active,1865.7,22/06/2020 0:00,,,466425.5,paid
+149,Angela Flores,Liza Reyes,Accident Insurance,1,NCR,Pasig,Quarterly,9522.85,38091.4,4,2000000,Active,3809.14,19/06/2020 0:00,,,38091.4,paid
+156,Jose Flores,David Lim,VUL,25,NCR,Pasig,Quarterly,2488.92,9955.67,4,500000,Active,995.57,24/08/2019 0:00,,,248891.75,paid
+157,Rafael Villanueva,Liza Reyes,Term Life,20,CALABARZON,Laguna,Quarterly,34834.51,139338.03,4,5000000,Active,13933.8,22/08/2018 0:00,,,2786760.6,paid
+159,Diego Navarro,Mark Santos,Term Life,20,CALABARZON,Batangas,Monthly,1087.18,13046.21,12,1000000,Active,1304.62,16/09/2021 0:00,,,260924.2,paid
+160,Luis Mendoza,John Michael Cruz,Term Life,20,CALABARZON,Quezon,Annually,20821.77,20821.77,1,2000000,Active,2082.18,14/06/2023 0:00,,,416435.4,paid
+161,Clara Flores,Mark Santos,Term Life,20,Central Luzon,Tarlac,Monthly,1516.66,18199.94,12,750000,Active,1819.99,14/06/2024 0:00,,,363998.8,paid
+162,Victor Reyes,John Michael Cruz,Accident Insurance,1,Central Luzon,Zambales,Annually,173541.44,173541.44,1,5000000,Active,17354.14,25/03/2017 0:00,,,173541.44,paid
+166,Maria Castro,Ana Patricia Garcia,Accident Insurance,1,CALABARZON,Quezon,Annually,24499.27,24499.27,1,1500000,Active,2449.93,22/02/2019 0:00,,,24499.27,paid
+169,Diego Pascual,John Michael Cruz,Accident Insurance,1,CALABARZON,Cavite,Annually,6000.86,6000.86,1,500000,Active,600.09,25/04/2020 0:00,,,6000.86,paid
+171,Juan Dela Cruz,Liza Reyes,Term Life,20,Central Luzon,Nueva Ecija,Annually,22827.15,22827.15,1,1000000,Active,2282.72,14/08/2024 0:00,,,456543,paid
+172,Andres Reyes,Carlos Mendoza,Term Life,20,NCR,Manila,Quarterly,5524.29,22097.16,4,750000,Active,2209.72,23/01/2021 0:00,,,441943.2,paid
+173,Paolo Flores,Patrick Ortega,Health Insurance,1,CALABARZON,Cavite,Annually,43615.67,43615.67,1,1500000,Active,4361.57,18/07/2018 0:00,,,43615.67,paid
+175,Jose Navarro,Carlos Mendoza,Health Insurance,1,NCR,Taguig,Quarterly,6837.38,27349.52,4,1000000,Active,2734.95,31/03/2019 0:00,,,27349.52,paid
+176,Rafael Castro,Carlos Mendoza,Health Insurance,1,NCR,Makati,Monthly,4671.41,56056.9,12,3000000,Active,5605.69,03/03/2023 0:00,,,56056.9,paid
+177,Victor Reyes,Ana Patricia Garcia,Whole Life,65,CALABARZON,Quezon,Monthly,814.63,9775.55,12,750000,Active,977.55,23/07/2018 0:00,,,635410.75,paid
+178,Jose Santos,Patrick Ortega,Accident Insurance,1,Central Luzon,Tarlac,Annually,45137.31,45137.31,1,1500000,Active,4513.73,16/06/2018 0:00,,,45137.31,paid
+179,Isabella Lim,Mark Santos,Health Insurance,1,Central Luzon,Nueva Ecija,Quarterly,10134.94,40539.76,4,2000000,Active,4053.98,13/06/2023 0:00,,,40539.76,paid
+180,Luis Ortega,Jenna Flores,Health Insurance,1,CALABARZON,Quezon,Annually,13208.37,13208.37,1,1000000,Active,1320.84,05/03/2024 0:00,,,13208.37,paid
+181,Clara Villanueva,Patrick Ortega,Term Life,20,Central Luzon,Pampanga,Quarterly,3529.11,14116.43,4,1000000,Active,1411.64,15/12/2024 0:00,,,282328.6,paid
+182,Diego Gutierrez,Mark Santos,Term Life,20,CALABARZON,Batangas,Quarterly,25431.59,101726.37,4,3000000,Active,10172.64,28/05/2018 0:00,,,2034527.4,paid
+183,Diego Flores,Jenna Flores,Accident Insurance,1,Central Luzon,Pampanga,Monthly,5590.03,67080.35,12,2000000,Active,6708.04,03/12/2018 0:00,,,67080.35,paid
+184,Andres Ortega,Jenna Flores,Term Life,20,NCR,Manila,Quarterly,21956.67,87826.68,4,3000000,Active,8782.67,21/04/2024 0:00,,,1756533.6,paid
+185,Paolo Mendoza,Liza Reyes,Health Insurance,1,Central Luzon,Zambales,Quarterly,6511.92,26047.68,4,1000000,Active,2604.77,02/06/2022 0:00,,,26047.68,paid
+186,Diego Dela Cruz,Ana Patricia Garcia,Term Life,20,Central Luzon,Bulacan,Quarterly,3935.65,15742.6,4,750000,Active,1574.26,18/03/2022 0:00,,,314852,paid
+187,Isabella Garcia,Liza Reyes,VUL,25,Central Luzon,Tarlac,Quarterly,4975.93,19903.73,4,1500000,Active,1990.37,11/10/2022 0:00,,,497593.25,paid
+190,Maria Reyes,Patrick Ortega,Health Insurance,1,NCR,Manila,Monthly,2829.51,33954.17,12,1500000,Active,3395.42,01/06/2019 0:00,,,33954.17,paid
+191,Sofia Pascual,Ana Patricia Garcia,Health Insurance,1,Central Luzon,Nueva Ecija,Monthly,1951.44,23417.27,12,1000000,Active,2341.73,01/11/2021 0:00,,,23417.27,paid
+192,Rafael Santos,John Michael Cruz,Health Insurance,1,CALABARZON,Laguna,Annually,16918.41,16918.41,1,1500000,Active,1691.84,09/03/2019 0:00,,,16918.41,paid
+193,Luis Santos,John Michael Cruz,Accident Insurance,1,CALABARZON,Quezon,Annually,30632.78,30632.78,1,1000000,Active,3063.28,18/08/2024 0:00,,,30632.78,paid
+194,Clara Reyes,Jenna Flores,VUL,25,CALABARZON,Quezon,Monthly,2406.18,28874.13,12,1000000,Active,2887.41,04/10/2023 0:00,,,721853.25,paid
+195,Clara Dela Cruz,Ana Patricia Garcia,Term Life,20,NCR,Makati,Quarterly,27304.51,109218.02,4,5000000,Active,10921.8,03/09/2018 0:00,,,2184360.4,paid
+196,Clara Castro,Liza Reyes,Accident Insurance,1,CALABARZON,Batangas,Annually,52148.09,52148.09,1,1500000,Active,5214.81,10/05/2020 0:00,,,52148.09,paid
+197,Marco Aquino,Patrick Ortega,Accident Insurance,1,CALABARZON,Rizal,Quarterly,13019.91,52079.62,4,5000000,Active,5207.96,22/07/2024 0:00,,,52079.62,paid
+198,Maria Aquino,Liza Reyes,Term Life,20,Central Luzon,Nueva Ecija,Annually,34176.77,34176.77,1,1000000,Active,3417.68,24/06/2023 0:00,,,683535.4,paid
+201,Paolo Flores,Carlos Mendoza,Term Life,20,Central Luzon,Pampanga,Quarterly,7591.77,30367.09,4,2000000,Active,3036.71,05/06/2024 0:00,,,607341.8,paid
+202,Sofia Aquino,Liza Reyes,Health Insurance,1,Central Luzon,Tarlac,Annually,37714.35,37714.35,1,2000000,Active,3771.43,20/08/2024 0:00,,,37714.35,paid
+204,Paolo Castro,Ana Patricia Garcia,Accident Insurance,1,Central Luzon,Tarlac,Annually,13046.85,13046.85,1,1000000,Active,1304.69,03/02/2023 0:00,,,13046.85,paid
+208,Rafael Flores,Patrick Ortega,Term Life,20,Central Luzon,Pampanga,Quarterly,9870.87,39483.48,4,1500000,Active,3948.35,10/05/2022 0:00,,,789669.6,paid
+210,Andres Aquino,Mark Santos,Term Life,20,CALABARZON,Rizal,Quarterly,6265.35,25061.41,4,750000,Active,2506.14,03/06/2017 0:00,,,501228.2,paid
+212,Isabella Domingo,Patrick Ortega,Term Life,20,CALABARZON,Batangas,Quarterly,16104.65,64418.59,4,3000000,Active,6441.86,02/02/2019 0:00,,,1288371.8,paid
+215,Miguel Reyes,Mark Santos,VUL,25,CALABARZON,Quezon,Quarterly,18241.45,72965.8,4,3000000,Active,7296.58,01/05/2024 0:00,,,1824145,paid
+216,Rafael Flores,David Lim,Health Insurance,1,CALABARZON,Batangas,Annually,40727.76,40727.76,1,1500000,Active,4072.78,27/06/2020 0:00,,,40727.76,paid
+218,Clara Pascual,Ana Patricia Garcia,Accident Insurance,1,Central Luzon,Pampanga,Annually,80933.18,80933.18,1,5000000,Active,8093.32,02/12/2017 0:00,,,80933.18,paid
+219,Luis Dela Cruz,Ana Patricia Garcia,Term Life,20,Central Luzon,Bulacan,Annually,15359.68,15359.68,1,500000,Active,1535.97,09/04/2019 0:00,,,307193.6,paid
+220,Clara Navarro,Jenna Flores,Accident Insurance,1,CALABARZON,Laguna,Annually,45405.11,45405.11,1,3000000,Active,4540.51,26/06/2022 0:00,,,45405.11,paid
+221,Rafael Pascual,Jenna Flores,Health Insurance,1,NCR,Taguig,Monthly,2677.49,32129.94,12,1500000,Active,3212.99,08/04/2023 0:00,,,32129.94,paid
+222,Jose Gutierrez,Jenna Flores,Health Insurance,1,CALABARZON,Laguna,Monthly,3861.88,46342.6,12,3000000,Active,4634.26,05/07/2017 0:00,,,46342.6,paid
+224,Daniel Santos,Carlos Mendoza,Health Insurance,1,CALABARZON,Rizal,Annually,13534.13,13534.13,1,500000,Active,1353.41,18/01/2023 0:00,,,13534.13,paid
+226,Marco Aquino,Jenna Flores,Whole Life,65,NCR,Pasig,Monthly,1156.5,13878.03,12,1000000,Active,1387.8,08/04/2018 0:00,,,902071.95,paid
+228,Rafael Garcia,Ana Patricia Garcia,Health Insurance,1,CALABARZON,Batangas,Monthly,2571.95,30863.46,12,2000000,Active,3086.35,28/07/2018 0:00,,,30863.46,paid
+229,Marco Mendoza,Patrick Ortega,Accident Insurance,1,Central Luzon,Tarlac,Monthly,1096.51,13158.08,12,750000,Active,1315.81,28/05/2024 0:00,,,13158.08,paid
+230,Victor Reyes,Ana Patricia Garcia,Term Life,20,Central Luzon,Zambales,Annually,98368.32,98368.32,1,3000000,Active,9836.83,12/08/2024 0:00,,,1967366.4,paid
+231,Teresa Navarro,David Lim,Health Insurance,1,Central Luzon,Tarlac,Monthly,5102.03,61224.35,12,3000000,Active,6122.44,13/05/2020 0:00,,,61224.35,paid
+236,Daniel Mendoza,Patrick Ortega,Health Insurance,1,NCR,Taguig,Quarterly,7346.96,29387.85,4,1000000,Active,2938.78,25/03/2022 0:00,,,29387.85,paid
+239,Isabella Mendoza,Liza Reyes,VUL,25,NCR,Quezon City,Annually,15750.47,15750.47,1,1000000,Active,1575.05,04/10/2019 0:00,,,393761.75,paid
+241,Miguel Santos,Carlos Mendoza,Accident Insurance,1,NCR,Manila,Monthly,11127.25,133526.94,12,5000000,Active,13352.69,17/08/2021 0:00,,,133526.94,paid
+242,Diego Villanueva,Liza Reyes,Term Life,20,NCR,Taguig,Annually,28995.03,28995.03,1,1500000,Active,2899.5,26/02/2024 0:00,,,579900.6,paid
+243,Sofia Gutierrez,Patrick Ortega,Health Insurance,1,NCR,Manila,Monthly,3965.18,47582.18,12,2000000,Active,4758.22,10/03/2017 0:00,,,47582.18,on-going
+247,Isabella Aquino,Mark Santos,Term Life,20,Central Luzon,Bulacan,Quarterly,10713.44,42853.77,4,3000000,Active,4285.38,13/11/2021 0:00,,,857075.4,on-going
+248,Maria Villanueva,Mark Santos,Accident Insurance,1,NCR,Quezon City,Annually,24398.87,24398.87,1,750000,Active,2439.89,11/05/2023 0:00,,,24398.87,on-going
+251,Diego Aquino,John Michael Cruz,Term Life,20,Central Luzon,Tarlac,Monthly,518.42,6221.07,12,500000,Active,622.11,08/11/2017 0:00,,,124421.4,on-going
+252,Paolo Ortega,Carlos Mendoza,VUL,25,NCR,Makati,Quarterly,43518.31,174073.23,4,5000000,Active,17407.32,24/07/2019 0:00,,,4351830.75,on-going
+254,Sofia Santos,Carlos Mendoza,Health Insurance,1,CALABARZON,Cavite,Quarterly,1536,6144.01,4,500000,Active,614.4,27/12/2021 0:00,,,6144.01,on-going
+255,Jose Flores,Mark Santos,Term Life,20,NCR,Pasig,Annually,35886.94,35886.94,1,1500000,Active,3588.69,30/07/2021 0:00,,,717738.8,on-going
+256,Jose Pascual,David Lim,Accident Insurance,1,Central Luzon,Tarlac,Quarterly,24538.69,98154.74,4,5000000,Active,9815.47,22/08/2021 0:00,,,98154.74,on-going
+257,Victor Dela Cruz,Mark Santos,Accident Insurance,1,Central Luzon,Pampanga,Monthly,4879.57,58554.9,12,3000000,Active,5855.49,07/01/2020 0:00,,,58554.9,on-going
+260,Isabella Aquino,David Lim,VUL,25,CALABARZON,Cavite,Annually,45580.33,45580.33,1,1500000,Active,4558.03,01/09/2023 0:00,,,1139508.25,on-going
+261,Andres Domingo,David Lim,Health Insurance,1,CALABARZON,Batangas,Quarterly,12831.8,51327.2,4,1500000,Active,5132.72,17/10/2024 0:00,,,51327.2,on-going
+263,Marco Lim,Liza Reyes,Accident Insurance,1,NCR,Pasig,Quarterly,11430.91,45723.63,4,3000000,Active,4572.36,08/10/2024 0:00,,,45723.63,paid
+267,Andres Garcia,Liza Reyes,Health Insurance,1,NCR,Manila,Annually,8234.23,8234.23,1,500000,Active,823.42,26/10/2022 0:00,,,8234.23,paid
+268,Juan Navarro,Mark Santos,VUL,25,CALABARZON,Rizal,Annually,134944.44,134944.44,1,5000000,Active,13494.44,12/08/2022 0:00,,,3373611,paid
+269,Isabella Navarro,David Lim,VUL,25,CALABARZON,Laguna,Annually,15391.47,15391.47,1,500000,Active,1539.15,04/08/2018 0:00,,,384786.75,paid
+270,Jose Mendoza,Jenna Flores,Accident Insurance,1,CALABARZON,Cavite,Annually,18660.86,18660.86,1,1500000,Active,1866.09,24/10/2024 0:00,,,18660.86,paid
+271,Teresa Dela Cruz,Ana Patricia Garcia,Term Life,20,NCR,Makati,Monthly,3183.52,38202.2,12,3000000,Active,3820.22,27/09/2019 0:00,,,764044,paid
+272,Marco Ortega,Jenna Flores,Accident Insurance,1,CALABARZON,Rizal,Annually,22457.92,22457.92,1,750000,Active,2245.79,26/01/2019 0:00,,,22457.92,paid
+273,Sofia Domingo,Mark Santos,Accident Insurance,1,NCR,Pasig,Monthly,3456.47,41477.64,12,2000000,Active,4147.76,26/11/2024 0:00,,,41477.64,paid
+274,Victor Gutierrez,Ana Patricia Garcia,Accident Insurance,1,NCR,Taguig,Monthly,1196.55,14358.62,12,750000,Active,1435.86,18/02/2022 0:00,,,14358.62,paid
+277,Carlos Gutierrez,Carlos Mendoza,Accident Insurance,1,NCR,Taguig,Quarterly,7715.99,30863.95,4,1500000,Active,3086.4,17/02/2024 0:00,,,30863.95,paid
+278,Daniel Reyes,Liza Reyes,Health Insurance,1,CALABARZON,Batangas,Quarterly,3349.59,13398.38,4,750000,Active,1339.84,13/12/2023 0:00,,,13398.38,paid
+280,Miguel Gutierrez,Patrick Ortega,Health Insurance,1,NCR,Manila,Monthly,1795.25,21543.04,12,2000000,Active,2154.3,11/04/2020 0:00,,,21543.04,paid
+282,Marco Santos,David Lim,Accident Insurance,1,CALABARZON,Quezon,Annually,144598.28,144598.28,1,5000000,Active,14459.83,13/12/2021 0:00,,,144598.28,paid
+286,Marco Villanueva,Jenna Flores,VUL,25,Central Luzon,Tarlac,Annually,114301.87,114301.87,1,5000000,Active,11430.19,26/01/2018 0:00,,,2857546.75,paid
+288,Jose Ortega,Patrick Ortega,Accident Insurance,1,Central Luzon,Tarlac,Quarterly,15266.72,61066.88,4,3000000,Active,6106.69,06/11/2017 0:00,,,61066.88,paid
+290,Rafael Flores,Carlos Mendoza,Accident Insurance,1,CALABARZON,Batangas,Quarterly,11482.95,45931.79,4,1500000,Active,4593.18,05/01/2020 0:00,,,45931.79,paid
+291,Elena Reyes,Mark Santos,Accident Insurance,1,CALABARZON,Cavite,Monthly,7264.09,87169.05,12,3000000,Active,8716.91,12/02/2018 0:00,,,87169.05,paid
+294,Victor Santos,Carlos Mendoza,VUL,25,Central Luzon,Pampanga,Annually,39580.7,39580.7,1,1500000,Active,3958.07,25/01/2018 0:00,,,989517.5,paid
+295,Ana Castro,John Michael Cruz,Accident Insurance,1,NCR,Taguig,Monthly,5281.67,63380.02,12,3000000,Active,6338,20/10/2024 0:00,,,63380.02,paid
+298,Angela Santos,Mark Santos,Health Insurance,1,CALABARZON,Batangas,Quarterly,21530.04,86120.16,4,3000000,Active,8612.02,29/11/2023 0:00,,,86120.16,on-going
+302,Jose Reyes,Patrick Ortega,Accident Insurance,1,CALABARZON,Cavite,Quarterly,13536.77,54147.1,4,2000000,Active,5414.71,26/10/2017 0:00,,,54147.1,on-going
+304,Paolo Aquino,Mark Santos,VUL,25,NCR,Makati,Monthly,949.28,11391.31,12,500000,Active,1139.13,29/09/2018 0:00,,,284782.75,on-going
+305,Marco Santos,Liza Reyes,VUL,25,Central Luzon,Nueva Ecija,Monthly,8458.93,101507.1,12,3000000,Active,10150.71,26/08/2017 0:00,,,2537677.5,on-going
+306,Luis Pascual,Jenna Flores,Accident Insurance,1,Central Luzon,Bulacan,Annually,26651.99,26651.99,1,1000000,Active,2665.2,21/12/2018 0:00,,,26651.99,on-going
+308,Andres Lim,Mark Santos,Term Life,20,NCR,Makati,Annually,103665.57,103665.57,1,5000000,Active,10366.56,19/09/2017 0:00,,,2073311.4,on-going
+309,Sofia Domingo,Mark Santos,Health Insurance,1,CALABARZON,Quezon,Annually,11385.98,11385.98,1,1000000,Active,1138.6,15/11/2018 0:00,,,11385.98,on-going
+313,Elena Reyes,Ana Patricia Garcia,Health Insurance,1,NCR,Pasig,Quarterly,21322.09,85288.36,4,5000000,Active,8528.84,02/09/2020 0:00,,,85288.36,on-going
+315,Juan Flores,Jenna Flores,Accident Insurance,1,NCR,Quezon City,Monthly,1387.91,16654.97,12,500000,Active,1665.5,13/08/2019 0:00,,,16654.97,on-going
+316,Maria Dela Cruz,Patrick Ortega,Health Insurance,1,Central Luzon,Tarlac,Monthly,630.41,7564.93,12,500000,Active,756.49,16/09/2021 0:00,,,7564.93,on-going
+317,Jose Aquino,Mark Santos,Term Life,20,NCR,Quezon City,Annually,114969.9,114969.9,1,5000000,Active,11496.99,06/03/2021 0:00,,,2299398,on-going
+318,Luis Garcia,Patrick Ortega,Accident Insurance,1,NCR,Pasig,Monthly,1033.23,12398.7,12,500000,Active,1239.87,17/11/2021 0:00,,,12398.7,on-going
+319,Miguel Santos,David Lim,VUL,25,CALABARZON,Rizal,Quarterly,23098.12,92392.49,4,3000000,Active,9239.25,26/07/2020 0:00,,,2309812.25,on-going
+320,Ana Gutierrez,Ana Patricia Garcia,Whole Life,65,Central Luzon,Bulacan,Quarterly,2370.27,9481.08,4,750000,Active,948.11,24/03/2022 0:00,,,616270.2,on-going
+323,Luis Santos,Jenna Flores,Term Life,20,CALABARZON,Rizal,Monthly,4783.66,57403.92,12,2000000,Active,5740.39,23/01/2018 0:00,,,1148078.4,on-going
+324,Jose Aquino,Patrick Ortega,Term Life,20,NCR,Quezon City,Quarterly,5735.97,22943.88,4,750000,Active,2294.39,12/09/2024 0:00,,,458877.6,on-going
+325,Isabella Santos,Jenna Flores,Term Life,20,NCR,Manila,Quarterly,6105.45,24421.8,4,750000,Active,2442.18,12/06/2018 0:00,,,488436,on-going
+326,Paolo Lim,John Michael Cruz,Health Insurance,1,NCR,Quezon City,Annually,41657.82,41657.82,1,2000000,Active,4165.78,06/06/2021 0:00,,,41657.82,on-going
+328,Marco Garcia,David Lim,VUL,25,CALABARZON,Rizal,Monthly,3662.63,43951.55,12,2000000,Active,4395.16,20/02/2020 0:00,,,1098788.75,on-going
+330,Victor Gutierrez,Ana Patricia Garcia,VUL,25,NCR,Manila,Monthly,2077.33,24927.91,12,1000000,Active,2492.79,25/02/2020 0:00,,,623197.75,on-going
+331,Maria Domingo,David Lim,Accident Insurance,1,NCR,Quezon City,Monthly,674.85,8098.21,12,500000,Active,809.82,28/12/2019 0:00,,,8098.21,on-going
+332,Isabella Domingo,Ana Patricia Garcia,Accident Insurance,1,CALABARZON,Cavite,Monthly,14495.23,173942.74,12,5000000,Active,17394.27,23/12/2018 0:00,,,173942.74,on-going
+334,Diego Garcia,Carlos Mendoza,Term Life,20,NCR,Quezon City,Annually,30940.45,30940.45,1,2000000,Active,3094.05,12/05/2022 0:00,,,618809,on-going
+335,Andres Pascual,Carlos Mendoza,VUL,25,Central Luzon,Pampanga,Quarterly,38883.88,155535.51,4,5000000,Active,15553.55,01/09/2017 0:00,,,3888387.75,on-going
+336,Isabella Mendoza,Ana Patricia Garcia,Term Life,20,Central Luzon,Tarlac,Annually,9669.88,9669.88,1,500000,Active,966.99,09/06/2021 0:00,,,193397.6,on-going
+338,Carlos Pascual,Jenna Flores,Whole Life,65,Central Luzon,Zambales,Quarterly,17979.74,71918.95,4,5000000,Active,7191.9,21/09/2024 0:00,,,4674731.75,on-going
+339,Andres Santos,Liza Reyes,Accident Insurance,1,CALABARZON,Quezon,Quarterly,1819.01,7276.02,4,500000,Active,727.6,10/11/2023 0:00,,,7276.02,on-going
+341,Ana Pascual,Jenna Flores,Health Insurance,1,NCR,Makati,Monthly,1014.91,12178.89,12,750000,Active,1217.89,06/12/2020 0:00,,,12178.89,on-going
+342,Paolo Flores,John Michael Cruz,Term Life,20,CALABARZON,Rizal,Monthly,5122.83,61473.99,12,3000000,Active,6147.4,23/08/2021 0:00,,,1229479.8,on-going
+343,Maria Mendoza,Jenna Flores,Term Life,20,CALABARZON,Quezon,Monthly,7239.02,86868.27,12,3000000,Active,8686.83,29/10/2018 0:00,,,1737365.4,on-going
+345,Angela Garcia,John Michael Cruz,Term Life,20,CALABARZON,Batangas,Monthly,5373.97,64487.66,12,2000000,Active,6448.77,08/08/2017 0:00,,,1289753.2,on-going
+346,Paolo Aquino,Liza Reyes,Accident Insurance,1,Central Luzon,Zambales,Quarterly,6628.74,26514.95,4,1000000,Active,2651.5,31/08/2019 0:00,,,26514.95,on-going
+349,Maria Mendoza,Liza Reyes,Term Life,20,Central Luzon,Zambales,Quarterly,5483.26,21933.05,4,1500000,Active,2193.3,22/02/2021 0:00,,,438661,on-going
+352,Clara Domingo,Carlos Mendoza,Health Insurance,1,CALABARZON,Laguna,Annually,48854.15,48854.15,1,1500000,Active,4885.41,23/05/2017 0:00,,,48854.15,on-going
+353,Jose Lim,John Michael Cruz,Term Life,20,CALABARZON,Batangas,Monthly,2144.01,25728.09,12,750000,Active,2572.81,01/06/2018 0:00,,,514561.8,on-going
+355,Marco Santos,John Michael Cruz,VUL,25,Central Luzon,Nueva Ecija,Annually,51545.47,51545.47,1,5000000,Active,5154.55,28/12/2023 0:00,,,1288636.75,on-going
+357,Maria Dela Cruz,Patrick Ortega,Accident Insurance,1,CALABARZON,Rizal,Quarterly,4894.02,19576.09,4,1000000,Active,1957.61,02/06/2023 0:00,,,19576.09,on-going
+358,Isabella Pascual,David Lim,Health Insurance,1,NCR,Taguig,Quarterly,13510.16,54040.64,4,2000000,Active,5404.06,08/06/2017 0:00,,,54040.64,on-going
+361,Carlos Santos,Patrick Ortega,Health Insurance,1,Central Luzon,Nueva Ecija,Quarterly,28640.67,114562.68,4,5000000,Active,11456.27,19/08/2017 0:00,,,114562.68,on-going
+362,Angela Castro,Jenna Flores,Accident Insurance,1,CALABARZON,Batangas,Annually,156411.92,156411.92,1,5000000,Active,15641.19,29/04/2017 0:00,,,156411.92,on-going
+364,Victor Aquino,Ana Patricia Garcia,Term Life,20,Central Luzon,Bulacan,Annually,14483.75,14483.75,1,750000,Active,1448.38,02/01/2022 0:00,,,289675,on-going
+365,Maria Dela Cruz,David Lim,VUL,25,NCR,Makati,Monthly,7692.94,92315.27,12,3000000,Active,9231.53,13/03/2020 0:00,,,2307881.75,on-going
+366,Juan Navarro,Carlos Mendoza,Whole Life,65,Central Luzon,Pampanga,Annually,45504.82,45504.82,1,3000000,Active,4550.48,05/08/2021 0:00,,,2957813.3,on-going
+369,Isabella Mendoza,Ana Patricia Garcia,Accident Insurance,1,Central Luzon,Zambales,Annually,34133.84,34133.84,1,2000000,Active,3413.38,19/03/2018 0:00,,,34133.84,on-going
+372,Teresa Lim,Liza Reyes,Accident Insurance,1,Central Luzon,Zambales,Annually,73739.4,73739.4,1,5000000,Active,7373.94,31/12/2024 0:00,,,73739.4,on-going
+373,Ana Navarro,Carlos Mendoza,VUL,25,Central Luzon,Tarlac,Annually,71248.33,71248.33,1,5000000,Active,7124.83,06/04/2023 0:00,,,1781208.25,on-going
+374,Miguel Flores,David Lim,VUL,25,Central Luzon,Zambales,Annually,164078.1,164078.1,1,5000000,Active,16407.81,06/10/2020 0:00,,,4101952.5,on-going
+376,Maria Castro,Carlos Mendoza,Health Insurance,1,NCR,Taguig,Quarterly,3960.93,15843.72,4,500000,Active,1584.37,11/12/2022 0:00,,,15843.72,on-going
+378,Carlos Aquino,Carlos Mendoza,Health Insurance,1,CALABARZON,Batangas,Monthly,2155.21,25862.47,12,1000000,Active,2586.25,26/01/2022 0:00,,,25862.47,on-going
+379,Victor Ortega,Jenna Flores,Health Insurance,1,NCR,Quezon City,Quarterly,10421.39,41685.57,4,2000000,Active,4168.56,11/07/2021 0:00,,,41685.57,on-going
+381,Carlos Santos,Jenna Flores,Whole Life,65,Central Luzon,Tarlac,Quarterly,3305.82,13223.27,4,1000000,Active,1322.33,24/08/2022 0:00,,,859512.55,on-going
+382,Luis Flores,Liza Reyes,VUL,25,CALABARZON,Rizal,Annually,69021.63,69021.63,1,3000000,Active,6902.16,15/10/2020 0:00,,,1725540.75,on-going
+384,Diego Reyes,Mark Santos,Term Life,20,CALABARZON,Laguna,Quarterly,11967.6,47870.41,4,1500000,Active,4787.04,31/12/2022 0:00,,,957408.2,on-going
+385,Luis Garcia,Jenna Flores,Term Life,20,NCR,Manila,Monthly,2638.48,31661.79,12,1500000,Active,3166.18,20/02/2023 0:00,,,633235.8,on-going
+388,Juan Lim,Mark Santos,Term Life,20,Central Luzon,Nueva Ecija,Quarterly,5100.95,20403.82,4,750000,Active,2040.38,16/09/2020 0:00,,,408076.4,on-going
+390,Isabella Ortega,Mark Santos,VUL,25,CALABARZON,Laguna,Monthly,1263.73,15164.73,12,500000,Active,1516.47,05/04/2020 0:00,,,379118.25,paid
+391,Elena Aquino,Patrick Ortega,Term Life,20,NCR,Manila,Annually,67299.31,67299.31,1,5000000,Active,6729.93,30/11/2018 0:00,,,1345986.2,paid
+392,Paolo Pascual,Liza Reyes,Term Life,20,CALABARZON,Cavite,Quarterly,2408.59,9634.35,4,750000,Active,963.44,13/02/2022 0:00,,,192687,paid
+395,Clara Domingo,David Lim,Term Life,20,CALABARZON,Rizal,Annually,5791.7,5791.7,1,500000,Active,579.17,11/07/2020 0:00,,,115834,paid
+396,Miguel Navarro,Ana Patricia Garcia,VUL,25,Central Luzon,Zambales,Monthly,6878.63,82543.51,12,3000000,Active,8254.35,08/11/2021 0:00,,,2063587.75,paid
+397,Victor Castro,Liza Reyes,Health Insurance,1,NCR,Taguig,Annually,22728.31,22728.31,1,2000000,Active,2272.83,05/10/2018 0:00,,,22728.31,paid
+399,Victor Navarro,Ana Patricia Garcia,Health Insurance,1,NCR,Manila,Annually,31657.08,31657.08,1,1500000,Active,3165.71,10/01/2022 0:00,,,31657.08,paid
+400,Jose Domingo,Patrick Ortega,Term Life,20,CALABARZON,Laguna,Monthly,836.92,10043,12,500000,Active,1004.3,02/04/2023 0:00,,,200860,paid
+402,Daniel Castro,Patrick Ortega,VUL,25,Central Luzon,Nueva Ecija,Annually,6217.96,6217.96,1,500000,Active,621.8,28/06/2019 0:00,,,155449,paid
+403,Marco Santos,Patrick Ortega,Accident Insurance,1,Central Luzon,Tarlac,Monthly,3164.51,37974.17,12,3000000,Active,3797.42,10/07/2022 0:00,,,37974.17,paid
+404,Angela Pascual,Ana Patricia Garcia,Accident Insurance,1,NCR,Quezon City,Quarterly,4156.93,16627.7,4,500000,Active,1662.77,03/06/2019 0:00,,,16627.7,paid
+406,Clara Domingo,Carlos Mendoza,Health Insurance,1,NCR,Taguig,Quarterly,8410.72,33642.87,4,3000000,Active,3364.29,25/07/2023 0:00,,,33642.87,paid
+408,Luis Dela Cruz,John Michael Cruz,Health Insurance,1,Central Luzon,Pampanga,Quarterly,4986.69,19946.75,4,1000000,Active,1994.68,19/04/2020 0:00,,,19946.75,paid
+410,Isabella Pascual,Mark Santos,VUL,25,Central Luzon,Pampanga,Monthly,6563.04,78756.48,12,3000000,Active,7875.65,26/08/2022 0:00,,,1968912,paid
+411,Teresa Mendoza,John Michael Cruz,VUL,25,Central Luzon,Nueva Ecija,Annually,48531.91,48531.91,1,2000000,Active,4853.19,18/12/2024 0:00,,,1213297.75,paid
+412,Sofia Domingo,Carlos Mendoza,Term Life,20,Central Luzon,Bulacan,Monthly,813.41,9760.88,12,500000,Active,976.09,08/07/2024 0:00,,,195217.6,paid
+413,Teresa Reyes,Ana Patricia Garcia,VUL,25,Central Luzon,Tarlac,Annually,23238.41,23238.41,1,750000,Active,2323.84,23/04/2020 0:00,,,580960.25,paid
+419,Andres Gutierrez,Ana Patricia Garcia,VUL,25,Central Luzon,Bulacan,Annually,166547.73,166547.73,1,5000000,Active,16654.77,04/06/2024 0:00,,,4163693.25,paid
+420,Clara Dela Cruz,John Michael Cruz,Term Life,20,Central Luzon,Tarlac,Monthly,2583.17,30998.1,12,2000000,Active,3099.81,03/11/2022 0:00,,,619962,paid
+421,Daniel Mendoza,David Lim,Accident Insurance,1,Central Luzon,Nueva Ecija,Monthly,780.63,9367.54,12,500000,Active,936.75,10/06/2024 0:00,,,9367.54,paid
+422,Daniel Navarro,David Lim,Accident Insurance,1,Central Luzon,Nueva Ecija,Annually,61184.42,61184.42,1,2000000,Active,6118.44,06/02/2017 0:00,,,61184.42,paid
+425,Jose Garcia,David Lim,VUL,25,Central Luzon,Bulacan,Annually,7092.44,7092.44,1,500000,Active,709.24,25/12/2022 0:00,,,177311,paid
+426,Jose Pascual,Carlos Mendoza,Health Insurance,1,NCR,Quezon City,Annually,61437.43,61437.43,1,2000000,Active,6143.74,18/11/2021 0:00,,,61437.43,paid
+428,Ana Gutierrez,Jenna Flores,Health Insurance,1,CALABARZON,Rizal,Quarterly,15083.4,60333.6,4,3000000,Active,6033.36,11/03/2017 0:00,,,60333.6,paid
+431,Juan Gutierrez,Carlos Mendoza,Health Insurance,1,Central Luzon,Tarlac,Annually,40805.67,40805.67,1,3000000,Active,4080.57,07/04/2024 0:00,,,40805.67,paid
+434,Andres Navarro,Ana Patricia Garcia,Accident Insurance,1,CALABARZON,Quezon,Monthly,719.43,8633.16,12,500000,Active,863.32,24/10/2019 0:00,,,8633.16,paid
+435,Elena Flores,Patrick Ortega,VUL,25,NCR,Quezon City,Monthly,713.68,8564.21,12,500000,Active,856.42,04/03/2019 0:00,,,214105.25,paid
+436,Isabella Garcia,David Lim,Accident Insurance,1,NCR,Taguig,Quarterly,9556.17,38224.67,4,2000000,Active,3822.47,21/10/2021 0:00,,,38224.67,on-going
+437,Daniel Domingo,Patrick Ortega,Health Insurance,1,CALABARZON,Cavite,Quarterly,5060.53,20242.13,4,750000,Active,2024.21,20/05/2022 0:00,,,20242.13,on-going
+439,Andres Aquino,John Michael Cruz,VUL,25,Central Luzon,Bulacan,Monthly,2971.25,35655,12,3000000,Active,3565.5,09/09/2022 0:00,,,891375,on-going
+440,Luis Flores,John Michael Cruz,Accident Insurance,1,NCR,Manila,Annually,33030.82,33030.82,1,2000000,Active,3303.08,18/04/2022 0:00,,,33030.82,on-going
+442,Andres Lim,Carlos Mendoza,Accident Insurance,1,Central Luzon,Pampanga,Quarterly,28566.77,114267.09,4,5000000,Active,11426.71,15/10/2018 0:00,,,114267.09,on-going
+443,Miguel Reyes,David Lim,Health Insurance,1,CALABARZON,Laguna,Monthly,1814.8,21777.61,12,750000,Active,2177.76,15/09/2017 0:00,,,21777.61,on-going
+445,Jose Gutierrez,Patrick Ortega,VUL,25,Central Luzon,Zambales,Annually,28692.49,28692.49,1,2000000,Active,2869.25,31/03/2021 0:00,,,717312.25,on-going
+448,Andres Dela Cruz,John Michael Cruz,Whole Life,65,CALABARZON,Cavite,Annually,38500.4,38500.4,1,3000000,Active,3850.04,16/05/2022 0:00,,,2502526,on-going
+449,Maria Villanueva,Carlos Mendoza,Term Life,20,NCR,Manila,Monthly,1521.07,18252.87,12,750000,Active,1825.29,06/07/2018 0:00,,,365057.4,on-going
+451,Marco Aquino,Carlos Mendoza,Term Life,20,NCR,Pasig,Quarterly,17409.7,69638.79,4,2000000,Active,6963.88,30/11/2018 0:00,,,1392775.8,on-going
+452,Elena Aquino,Mark Santos,Accident Insurance,1,NCR,Taguig,Monthly,5692.53,68310.37,12,3000000,Active,6831.04,09/09/2024 0:00,,,68310.37,on-going
+455,Clara Ortega,Ana Patricia Garcia,Term Life,20,CALABARZON,Batangas,Monthly,3913.69,46964.3,12,2000000,Active,4696.43,11/08/2024 0:00,,,939286,on-going
+456,Andres Santos,John Michael Cruz,Term Life,20,Central Luzon,Zambales,Quarterly,5901.43,23605.73,4,1500000,Active,2360.57,11/04/2021 0:00,,,472114.6,on-going
+459,Teresa Ortega,Ana Patricia Garcia,Health Insurance,1,CALABARZON,Laguna,Annually,15488.84,15488.84,1,750000,Active,1548.88,05/11/2019 0:00,,,15488.84,on-going
+460,Daniel Gutierrez,Liza Reyes,Accident Insurance,1,CALABARZON,Rizal,Annually,75461.71,75461.71,1,5000000,Active,7546.17,03/04/2023 0:00,,,75461.71,on-going
+463,Miguel Flores,Mark Santos,Term Life,20,NCR,Quezon City,Quarterly,12429.95,49719.82,4,1500000,Active,4971.98,28/12/2017 0:00,,,994396.4,on-going
+465,Diego Gutierrez,David Lim,Health Insurance,1,NCR,Quezon City,Annually,132110.53,132110.53,1,5000000,Active,13211.05,17/03/2020 0:00,,,132110.53,on-going
+466,Sofia Domingo,John Michael Cruz,Accident Insurance,1,NCR,Manila,Monthly,1331.79,15981.42,12,1000000,Active,1598.14,07/10/2018 0:00,,,15981.42,on-going
+468,Sofia Dela Cruz,John Michael Cruz,VUL,25,CALABARZON,Batangas,Quarterly,17038.22,68152.86,4,2000000,Active,6815.29,13/07/2021 0:00,,,1703821.5,on-going
+470,Andres Castro,Jenna Flores,Health Insurance,1,Central Luzon,Nueva Ecija,Quarterly,20102.29,80409.16,4,5000000,Active,8040.92,23/02/2022 0:00,,,80409.16,on-going
+472,Carlos Navarro,Ana Patricia Garcia,VUL,25,NCR,Makati,Annually,9986.63,9986.63,1,500000,Active,998.66,01/11/2020 0:00,,,249665.75,on-going
+476,Marco Navarro,Jenna Flores,Health Insurance,1,NCR,Taguig,Annually,19946.99,19946.99,1,1000000,Active,1994.7,10/06/2018 0:00,,,19946.99,on-going
+478,Sofia Dela Cruz,Patrick Ortega,Term Life,20,NCR,Quezon City,Quarterly,9196.95,36787.81,4,1500000,Active,3678.78,21/01/2021 0:00,,,735756.2,on-going
+480,Ana Pascual,Patrick Ortega,VUL,25,CALABARZON,Cavite,Monthly,1812.15,21745.85,12,1500000,Active,2174.59,17/06/2023 0:00,,,543646.25,on-going
+482,Andres Reyes,John Michael Cruz,Health Insurance,1,NCR,Taguig,Quarterly,14007,56028.02,4,2000000,Active,5602.8,13/05/2020 0:00,,,56028.02,on-going
+37,Diego Pascual,Carlos Mendoza,Term Life,20,CALABARZON,Batangas,Monthly,4059.56,48714.73,12,3000000,Claimed,4871.47,19/12/2020 0:00,14/12/2025 0:00,2109566.08,974294.6,not-fully-paid
+38,Miguel Mendoza,Carlos Mendoza,Whole Life,65,NCR,Quezon City,Annually,15929.49,15929.49,1,1500000,Claimed,1592.95,22/09/2020 0:00,12/02/2023 0:00,1351676.35,1035416.85,not-fully-paid
+51,Clara Navarro,David Lim,Accident Insurance,1,CALABARZON,Batangas,Quarterly,23653.03,94612.12,4,3000000,Claimed,9461.21,28/11/2019 0:00,18/11/2020 0:00,1915967.03,94612.12,not-fully-paid
+55,Miguel Navarro,David Lim,Term Life,20,CALABARZON,Cavite,Quarterly,24687.08,98748.33,4,5000000,Claimed,9874.83,14/01/2023 0:00,07/03/2026 0:00,4499670.43,1974966.6,not-fully-paid
+56,Elena Villanueva,Carlos Mendoza,VUL,25,CALABARZON,Rizal,Annually,9860.72,9860.72,1,500000,Claimed,986.07,13/08/2024 0:00,04/10/2028 0:00,291261.18,246518,not-fully-paid
+69,Victor Navarro,Jenna Flores,Accident Insurance,1,NCR,Manila,Quarterly,5250.35,21001.4,4,750000,Claimed,2100.14,25/03/2023 0:00,23/12/2023 0:00,617213.59,21001.4,not-fully-paid
+72,Clara Aquino,Patrick Ortega,VUL,25,NCR,Taguig,Monthly,11355.87,136270.44,12,5000000,Claimed,13627.04,06/06/2019 0:00,22/01/2021 0:00,4311462.5,3406761,not-fully-paid
+73,Maria Gutierrez,Patrick Ortega,Term Life,20,NCR,Makati,Quarterly,3566.63,14266.52,4,750000,Claimed,1426.65,27/02/2017 0:00,13/12/2017 0:00,477866.75,285330.4,not-fully-paid
+79,Miguel Villanueva,Patrick Ortega,Health Insurance,1,CALABARZON,Quezon,Monthly,2160.18,25922.22,12,1500000,Claimed,2592.22,26/03/2020 0:00,13/12/2020 0:00,803384.82,25922.22,not-fully-paid
+139,Sofia Garcia,Carlos Mendoza,Accident Insurance,1,Central Luzon,Pampanga,Annually,93671.91,93671.91,1,5000000,Claimed,9367.19,28/03/2024 0:00,25/08/2024 0:00,2757011.32,93671.91,not-fully-paid
+150,Clara Reyes,Ana Patricia Garcia,Whole Life,65,NCR,Quezon City,Monthly,745.57,8946.85,12,750000,Claimed,894.69,11/09/2022 0:00,17/06/2027 0:00,651991.5,581545.25,not-fully-paid
+151,Maria Ortega,Ana Patricia Garcia,Accident Insurance,1,NCR,Taguig,Monthly,1732.04,20784.48,12,1500000,Claimed,2078.45,08/10/2024 0:00,30/01/2025 0:00,1290887.25,20784.48,not-fully-paid
+155,Miguel Castro,Liza Reyes,VUL,25,NCR,Quezon City,Annually,21232.98,21232.98,1,1000000,Claimed,2123.3,27/08/2018 0:00,01/04/2019 0:00,973206.63,530824.5,not-fully-paid
+163,Andres Pascual,Ana Patricia Garcia,VUL,25,CALABARZON,Laguna,Quarterly,7428.25,29713,4,1000000,Claimed,2971.3,15/09/2019 0:00,23/04/2023 0:00,551831.93,742825,not-fully-paid
+168,Diego Castro,Carlos Mendoza,Health Insurance,1,Central Luzon,Nueva Ecija,Annually,33107.76,33107.76,1,1000000,Claimed,3310.78,29/12/2019 0:00,01/09/2020 0:00,539463.5,33107.76,not-fully-paid
+213,Paolo Lim,Mark Santos,Accident Insurance,1,Central Luzon,Pampanga,Annually,18955.4,18955.4,1,750000,Claimed,1895.54,19/07/2021 0:00,08/05/2022 0:00,497972.5,18955.4,not-fully-paid
+225,Teresa Ortega,John Michael Cruz,Accident Insurance,1,CALABARZON,Quezon,Monthly,1762.28,21147.34,12,750000,Claimed,2114.73,15/01/2017 0:00,16/07/2017 0:00,548626.46,21147.34,not-fully-paid
+233,Angela Reyes,Patrick Ortega,Health Insurance,1,NCR,Makati,Monthly,1141.04,13692.43,12,750000,Claimed,1369.24,17/01/2022 0:00,04/04/2022 0:00,575863.33,13692.43,not-fully-paid
+234,Teresa Garcia,Liza Reyes,Health Insurance,1,Central Luzon,Zambales,Monthly,1831.45,21977.38,12,2000000,Claimed,2197.74,10/02/2019 0:00,06/01/2020 0:00,1724305.24,21977.38,not-fully-paid
+235,Miguel Pascual,David Lim,Whole Life,65,CALABARZON,Cavite,Monthly,637.3,7647.6,12,500000,Claimed,764.76,26/04/2018 0:00,17/08/2022 0:00,369730.22,497094,paid
+237,Daniel Flores,John Michael Cruz,VUL,25,Central Luzon,Nueva Ecija,Annually,18697.81,18697.81,1,1500000,Claimed,1869.78,08/04/2022 0:00,22/02/2024 0:00,1435747.87,467445.25,paid
+240,Teresa Lim,Jenna Flores,Health Insurance,1,CALABARZON,Batangas,Monthly,7468.6,89623.16,12,3000000,Claimed,8962.32,28/07/2018 0:00,04/05/2019 0:00,1776071.66,89623.16,paid
+253,Paolo Pascual,Carlos Mendoza,Accident Insurance,1,Central Luzon,Nueva Ecija,Quarterly,3663.02,14652.09,4,500000,Claimed,1465.21,07/10/2019 0:00,18/12/2019 0:00,316993.01,14652.09,paid
+275,Rafael Villanueva,Mark Santos,Accident Insurance,1,CALABARZON,Quezon,Quarterly,9253.17,37012.68,4,1500000,Claimed,3701.27,12/12/2020 0:00,23/11/2021 0:00,879395.63,37012.68,paid
+287,Paolo Navarro,Carlos Mendoza,VUL,25,Central Luzon,Pampanga,Monthly,7912.99,94955.91,12,3000000,Claimed,9495.59,23/08/2018 0:00,15/05/2023 0:00,1871332.11,2373897.75,paid
+289,Daniel Castro,Mark Santos,VUL,25,CALABARZON,Rizal,Annually,24548.89,24548.89,1,1000000,Claimed,2454.89,17/01/2018 0:00,11/09/2020 0:00,817420.27,613722.25,paid
+300,Miguel Navarro,John Michael Cruz,Term Life,20,Central Luzon,Tarlac,Annually,17207.8,17207.8,1,750000,Claimed,1720.78,12/02/2019 0:00,08/11/2020 0:00,617313.67,344156,paid
+311,Isabella Garcia,John Michael Cruz,Health Insurance,1,CALABARZON,Rizal,Monthly,904.63,10855.52,12,750000,Claimed,1085.55,15/03/2023 0:00,14/03/2024 0:00,532263.49,10855.52,paid
+329,Clara Flores,John Michael Cruz,Accident Insurance,1,NCR,Pasig,Quarterly,34792.83,139171.33,4,5000000,Claimed,13917.13,09/02/2023 0:00,03/09/2023 0:00,4781692.54,139171.33,paid
+333,Carlos Navarro,Jenna Flores,Accident Insurance,1,NCR,Makati,Annually,48180.32,48180.32,1,2000000,Claimed,4818.03,11/02/2019 0:00,20/11/2019 0:00,1542124.6,48180.32,paid
+344,Jose Flores,Liza Reyes,VUL,25,CALABARZON,Laguna,Quarterly,2318.15,9272.6,4,500000,Claimed,927.26,22/10/2018 0:00,15/12/2021 0:00,485458.54,231815,paid
+348,Victor Navarro,Patrick Ortega,Term Life,20,NCR,Quezon City,Monthly,4323.82,51885.86,12,3000000,Claimed,5188.59,24/04/2022 0:00,14/02/2024 0:00,2677314.86,1037717.2,paid
+350,Daniel Domingo,John Michael Cruz,Health Insurance,1,CALABARZON,Batangas,Monthly,6964.19,83570.25,12,5000000,Claimed,8357.02,12/09/2018 0:00,30/11/2018 0:00,2714268.28,83570.25,paid
+359,Victor Castro,Mark Santos,Term Life,20,Central Luzon,Nueva Ecija,Monthly,2702.15,32425.78,12,1000000,Claimed,3242.58,15/10/2020 0:00,27/07/2022 0:00,655474.65,648515.6,paid
+368,Juan Gutierrez,Ana Patricia Garcia,VUL,25,CALABARZON,Cavite,Annually,16250.59,16250.59,1,750000,Claimed,1625.06,03/11/2022 0:00,23/02/2025 0:00,594182.68,406264.75,paid
+370,Paolo Lim,Ana Patricia Garcia,VUL,25,CALABARZON,Cavite,Monthly,859.26,10311.17,12,750000,Claimed,1031.12,21/08/2017 0:00,21/03/2022 0:00,678760.87,257779.25,paid
+380,Juan Lim,David Lim,Term Life,20,Central Luzon,Pampanga,Monthly,4831.88,57982.61,12,3000000,Claimed,5798.26,12/08/2020 0:00,03/09/2023 0:00,1785865.06,1159652.2,paid
+383,Juan Aquino,Carlos Mendoza,VUL,25,NCR,Quezon City,Monthly,8368.66,100423.96,12,5000000,Claimed,10042.4,08/07/2019 0:00,01/05/2020 0:00,3027975.57,2510599,paid
+386,Ana Gutierrez,Mark Santos,VUL,25,CALABARZON,Laguna,Annually,69023.19,69023.19,1,3000000,Claimed,6902.32,17/10/2023 0:00,22/03/2026 0:00,2745979.08,1725579.75,paid
+387,Marco Mendoza,Carlos Mendoza,VUL,25,NCR,Manila,Monthly,1870.77,22449.25,12,1500000,Claimed,2244.93,14/12/2019 0:00,01/03/2021 0:00,1018441.38,561231.25,paid
+389,Miguel Navarro,Patrick Ortega,Term Life,20,Central Luzon,Nueva Ecija,Annually,25302.11,25302.11,1,750000,Claimed,2530.21,04/11/2017 0:00,29/06/2018 0:00,714292.27,506042.2,paid
+394,Luis Navarro,Liza Reyes,Accident Insurance,1,CALABARZON,Quezon,Annually,62862.21,62862.21,1,3000000,Claimed,6286.22,05/04/2021 0:00,14/03/2022 0:00,1543224.34,62862.21,paid
+401,Isabella Gutierrez,Liza Reyes,Accident Insurance,1,Central Luzon,Pampanga,Quarterly,20090.15,80360.58,4,3000000,Claimed,8036.06,28/01/2021 0:00,21/06/2021 0:00,2766476.16,80360.58,paid
+405,Andres Gutierrez,Carlos Mendoza,Term Life,20,CALABARZON,Laguna,Annually,92809.97,92809.97,1,3000000,Claimed,9281,20/05/2018 0:00,27/12/2020 0:00,2186081.82,1856199.4,paid
+409,Angela Garcia,Patrick Ortega,Accident Insurance,1,Central Luzon,Zambales,Annually,31076.86,31076.86,1,1000000,Claimed,3107.69,09/07/2020 0:00,18/05/2021 0:00,816291.64,31076.86,paid
+414,Clara Domingo,Patrick Ortega,Health Insurance,1,NCR,Taguig,Annually,134440.75,134440.75,1,5000000,Claimed,13444.08,08/07/2019 0:00,20/05/2020 0:00,3472216.66,134440.75,paid
+418,Luis Reyes,Carlos Mendoza,Term Life,20,CALABARZON,Cavite,Monthly,2767.67,33211.98,12,2000000,Claimed,3321.2,21/07/2023 0:00,31/08/2023 0:00,1330562.79,664239.6,paid
+424,Rafael Villanueva,David Lim,Accident Insurance,1,Central Luzon,Tarlac,Quarterly,4097.93,16391.7,4,500000,Claimed,1639.17,08/10/2022 0:00,23/06/2023 0:00,371701.18,16391.7,paid
+427,Miguel Villanueva,Patrick Ortega,Term Life,20,CALABARZON,Cavite,Monthly,507.83,6094.01,12,500000,Claimed,609.4,31/12/2018 0:00,17/03/2022 0:00,267610.52,121880.2,paid
+430,Teresa Garcia,Carlos Mendoza,Accident Insurance,1,NCR,Makati,Quarterly,41459.09,165836.36,4,5000000,Claimed,16583.64,07/06/2021 0:00,22/07/2021 0:00,3684969.19,165836.36,paid
+433,Andres Castro,Jenna Flores,Whole Life,65,CALABARZON,Quezon,Monthly,876.49,10517.89,12,750000,Claimed,1051.79,02/12/2023 0:00,01/02/2025 0:00,417983.45,683662.85,paid
+446,Luis Navarro,Carlos Mendoza,Health Insurance,1,NCR,Taguig,Quarterly,7058.42,28233.68,4,1500000,Claimed,2823.37,18/06/2022 0:00,23/05/2023 0:00,754948.26,28233.68,paid
+462,Maria Dela Cruz,John Michael Cruz,Health Insurance,1,Central Luzon,Pampanga,Quarterly,1920.18,7680.73,4,500000,Claimed,768.07,18/10/2020 0:00,27/09/2021 0:00,424264.35,7680.73,paid
+464,Carlos Lim,Liza Reyes,Accident Insurance,1,NCR,Pasig,Annually,38023.71,38023.71,1,1500000,Claimed,3802.37,19/03/2020 0:00,17/02/2021 0:00,793097.28,38023.71,paid
+467,Teresa Mendoza,Ana Patricia Garcia,VUL,25,Central Luzon,Nueva Ecija,Annually,36978.01,36978.01,1,1500000,Claimed,3697.8,04/03/2017 0:00,21/08/2017 0:00,1439383.07,924450.25,paid
+469,Andres Mendoza,Liza Reyes,Accident Insurance,1,NCR,Taguig,Quarterly,2822.4,11289.61,4,500000,Claimed,1128.96,25/04/2018 0:00,03/10/2018 0:00,469028.26,11289.61,paid
+471,Daniel Gutierrez,Jenna Flores,Health Insurance,1,NCR,Makati,Monthly,815.28,9783.42,12,500000,Claimed,978.34,04/08/2024 0:00,11/02/2025 0:00,353106.49,9783.42,paid
+475,Victor Villanueva,Patrick Ortega,Term Life,20,NCR,Pasig,Annually,20331.18,20331.18,1,2000000,Claimed,2033.12,23/06/2017 0:00,22/08/2019 0:00,1620667.47,406623.6,paid
+5,Daniel Aquino,David Lim,Accident Insurance,1,NCR,Pasig,Annually,11900.51,11900.51,1,500000,Lapsed,1190.05,09/12/2023 0:00,,,11900.51,not-fully-paid
+6,Paolo Mendoza,Liza Reyes,Term Life,20,NCR,Quezon City,Monthly,7181.12,86173.5,12,5000000,Lapsed,8617.35,12/08/2019 0:00,,,1723470,not-fully-paid
+7,Jose Aquino,Carlos Mendoza,VUL,25,NCR,Makati,Quarterly,3809.42,15237.68,4,1000000,Lapsed,1523.77,14/11/2024 0:00,,,380942,not-fully-paid
+14,Rafael Castro,David Lim,Health Insurance,1,NCR,Makati,Annually,58098.11,58098.11,1,2000000,Lapsed,5809.81,12/03/2018 0:00,,,58098.11,not-fully-paid
+24,Miguel Dela Cruz,John Michael Cruz,Health Insurance,1,Central Luzon,Bulacan,Annually,13151.81,13151.81,1,500000,Lapsed,1315.18,02/03/2017 0:00,,,13151.81,not-fully-paid
+28,Andres Garcia,Jenna Flores,Term Life,20,Central Luzon,Bulacan,Quarterly,23659.11,94636.44,4,3000000,Lapsed,9463.64,07/05/2018 0:00,,,1892728.8,not-fully-paid
+29,Angela Lim,Ana Patricia Garcia,Accident Insurance,1,NCR,Pasig,Annually,73775.42,73775.42,1,3000000,Lapsed,7377.54,19/07/2020 0:00,,,73775.42,not-fully-paid
+61,Ana Domingo,Carlos Mendoza,Health Insurance,1,Central Luzon,Tarlac,Annually,96111.9,96111.9,1,5000000,Lapsed,9611.19,24/10/2023 0:00,,,96111.9,not-fully-paid
+62,Paolo Ortega,David Lim,VUL,25,NCR,Taguig,Annually,16611.09,16611.09,1,500000,Lapsed,1661.11,06/08/2024 0:00,,,415277.25,not-fully-paid
+81,Elena Santos,Liza Reyes,Term Life,20,NCR,Quezon City,Annually,88451.48,88451.48,1,5000000,Lapsed,8845.15,21/05/2023 0:00,,,1769029.6,not-fully-paid
+85,Isabella Ortega,Liza Reyes,Term Life,20,CALABARZON,Cavite,Annually,27499.06,27499.06,1,1500000,Lapsed,2749.91,05/03/2018 0:00,,,549981.2,not-fully-paid
+88,Victor Santos,Jenna Flores,Health Insurance,1,NCR,Quezon City,Quarterly,5932.62,23730.49,4,1000000,Lapsed,2373.05,30/11/2021 0:00,,,23730.49,not-fully-paid
+92,Elena Gutierrez,Liza Reyes,Term Life,20,CALABARZON,Cavite,Annually,123367.22,123367.22,1,5000000,Lapsed,12336.72,29/06/2022 0:00,,,2467344.4,not-fully-paid
+93,Miguel Aquino,John Michael Cruz,VUL,25,CALABARZON,Quezon,Quarterly,29482.19,117928.76,4,5000000,Lapsed,11792.88,11/08/2020 0:00,,,2948219,not-fully-paid
+97,Maria Aquino,Mark Santos,VUL,25,Central Luzon,Zambales,Annually,50780.23,50780.23,1,1500000,Lapsed,5078.02,22/06/2022 0:00,,,1269505.75,not-fully-paid
+103,Rafael Reyes,John Michael Cruz,Health Insurance,1,NCR,Quezon City,Annually,36447.1,36447.1,1,1500000,Lapsed,3644.71,26/04/2020 0:00,,,36447.1,not-fully-paid
+104,Victor Castro,Patrick Ortega,VUL,25,NCR,Taguig,Annually,135724.94,135724.94,1,5000000,Lapsed,13572.49,20/07/2017 0:00,,,3393123.5,not-fully-paid
+108,Luis Domingo,David Lim,VUL,25,CALABARZON,Cavite,Monthly,7939.98,95279.77,12,3000000,Lapsed,9527.98,03/04/2022 0:00,,,2381994.25,not-fully-paid
+114,Daniel Reyes,John Michael Cruz,Health Insurance,1,NCR,Makati,Quarterly,4315.4,17261.6,4,500000,Lapsed,1726.16,09/02/2023 0:00,,,17261.6,not-fully-paid
+120,Paolo Ortega,Mark Santos,Accident Insurance,1,NCR,Taguig,Monthly,1787.59,21451.06,12,1000000,Lapsed,2145.11,07/09/2017 0:00,,,21451.06,not-fully-paid
+125,Teresa Flores,Mark Santos,Term Life,20,Central Luzon,Tarlac,Monthly,5522.04,66264.43,12,5000000,Lapsed,6626.44,31/07/2023 0:00,,,1325288.6,not-fully-paid
+147,Isabella Santos,Carlos Mendoza,Term Life,20,Central Luzon,Nueva Ecija,Annually,16299.89,16299.89,1,1000000,Lapsed,1629.99,05/10/2023 0:00,,,325997.8,not-fully-paid
+154,Clara Castro,Mark Santos,Accident Insurance,1,NCR,Makati,Quarterly,3253.68,13014.74,4,500000,Lapsed,1301.47,22/03/2023 0:00,,,13014.74,not-fully-paid
+167,Paolo Flores,Carlos Mendoza,VUL,25,NCR,Makati,Annually,48355.74,48355.74,1,1500000,Lapsed,4835.57,07/12/2021 0:00,,,1208893.5,not-fully-paid
+174,Ana Mendoza,Patrick Ortega,Whole Life,65,NCR,Manila,Annually,43953.6,43953.6,1,3000000,Lapsed,4395.36,05/05/2021 0:00,,,2856984,not-fully-paid
+188,Diego Ortega,David Lim,Term Life,20,CALABARZON,Rizal,Monthly,845.12,10141.46,12,750000,Lapsed,1014.15,03/04/2020 0:00,,,202829.2,not-fully-paid
+209,Carlos Ortega,Carlos Mendoza,Term Life,20,NCR,Taguig,Annually,17534.11,17534.11,1,750000,Lapsed,1753.41,02/06/2017 0:00,,,350682.2,not-fully-paid
+211,Elena Mendoza,David Lim,VUL,25,CALABARZON,Rizal,Quarterly,17686.88,70747.54,4,3000000,Lapsed,7074.75,04/07/2018 0:00,,,1768688.5,not-fully-paid
+223,Marco Flores,John Michael Cruz,Term Life,20,CALABARZON,Laguna,Monthly,1685.14,20221.67,12,1000000,Lapsed,2022.17,12/03/2024 0:00,,,404433.4,not-fully-paid
+238,Andres Pascual,John Michael Cruz,Term Life,20,Central Luzon,Pampanga,Quarterly,10236.05,40944.2,4,3000000,Lapsed,4094.42,17/03/2023 0:00,,,818884,not-fully-paid
+244,Clara Dela Cruz,David Lim,Term Life,20,Central Luzon,Nueva Ecija,Monthly,13955.33,167463.99,12,5000000,Lapsed,16746.4,15/03/2018 0:00,,,3349279.8,not-fully-paid
+249,Andres Dela Cruz,John Michael Cruz,VUL,25,Central Luzon,Zambales,Quarterly,8116.91,32467.63,4,3000000,Lapsed,3246.76,06/03/2017 0:00,,,811690.75,not-fully-paid
+250,Isabella Ortega,Carlos Mendoza,Term Life,20,CALABARZON,Batangas,Quarterly,8005.9,32023.61,4,2000000,Lapsed,3202.36,05/08/2024 0:00,,,640472.2,not-fully-paid
+259,Isabella Castro,John Michael Cruz,Accident Insurance,1,Central Luzon,Pampanga,Quarterly,4752.86,19011.46,4,1500000,Lapsed,1901.15,28/01/2017 0:00,,,19011.46,not-fully-paid
+262,Angela Aquino,Carlos Mendoza,VUL,25,CALABARZON,Cavite,Quarterly,37058.33,148233.32,4,5000000,Lapsed,14823.33,12/04/2018 0:00,,,3705833,not-fully-paid
+265,Teresa Aquino,Mark Santos,Accident Insurance,1,Central Luzon,Nueva Ecija,Quarterly,5459.56,21838.26,4,2000000,Lapsed,2183.83,13/11/2024 0:00,,,21838.26,not-fully-paid
+266,Paolo Domingo,Ana Patricia Garcia,Term Life,20,NCR,Makati,Monthly,1635.94,19631.25,12,750000,Lapsed,1963.12,26/04/2023 0:00,,,392625,not-fully-paid
+283,Ana Domingo,David Lim,VUL,25,NCR,Pasig,Monthly,1559.53,18714.42,12,1000000,Lapsed,1871.44,04/12/2021 0:00,,,467860.5,not-fully-paid
+301,Isabella Dela Cruz,John Michael Cruz,Term Life,20,NCR,Pasig,Annually,74544.73,74544.73,1,3000000,Lapsed,7454.47,19/02/2017 0:00,,,1490894.6,not-fully-paid
+310,Juan Garcia,Jenna Flores,Accident Insurance,1,Central Luzon,Bulacan,Monthly,1782.47,21389.62,12,750000,Lapsed,2138.96,30/06/2017 0:00,,,21389.62,not-fully-paid
+312,Carlos Garcia,Jenna Flores,VUL,25,CALABARZON,Laguna,Annually,38640.41,38640.41,1,2000000,Lapsed,3864.04,20/07/2024 0:00,,,966010.25,not-fully-paid
+351,Victor Aquino,David Lim,Accident Insurance,1,NCR,Taguig,Annually,15509.96,15509.96,1,500000,Lapsed,1551,11/09/2021 0:00,,,15509.96,not-fully-paid
+375,Victor Reyes,Mark Santos,VUL,25,CALABARZON,Cavite,Quarterly,4128.49,16513.98,4,1000000,Lapsed,1651.4,15/03/2022 0:00,,,412849.5,not-fully-paid
+393,Carlos Santos,John Michael Cruz,Health Insurance,1,Central Luzon,Pampanga,Annually,6656.39,6656.39,1,500000,Lapsed,665.64,29/08/2017 0:00,,,6656.39,not-fully-paid
+407,Clara Villanueva,John Michael Cruz,Accident Insurance,1,NCR,Quezon City,Annually,9842.57,9842.57,1,500000,Lapsed,984.26,19/10/2023 0:00,,,9842.57,not-fully-paid
+415,Maria Reyes,Patrick Ortega,Term Life,20,CALABARZON,Rizal,Annually,50876.32,50876.32,1,1500000,Lapsed,5087.63,04/07/2020 0:00,,,1017526.4,not-fully-paid
+423,Ana Ortega,Patrick Ortega,Accident Insurance,1,Central Luzon,Pampanga,Quarterly,3382.97,13531.89,4,500000,Lapsed,1353.19,12/04/2021 0:00,,,13531.89,not-fully-paid
+429,Ana Mendoza,Patrick Ortega,Accident Insurance,1,NCR,Taguig,Monthly,1146.75,13761.03,12,500000,Lapsed,1376.1,05/01/2021 0:00,,,13761.03,not-fully-paid
+432,Rafael Garcia,Ana Patricia Garcia,Term Life,20,NCR,Manila,Annually,49832.74,49832.74,1,2000000,Lapsed,4983.27,21/02/2023 0:00,,,996654.8,not-fully-paid
+438,Luis Villanueva,David Lim,Health Insurance,1,Central Luzon,Bulacan,Monthly,1633.67,19604.09,12,750000,Lapsed,1960.41,24/02/2020 0:00,,,19604.09,not-fully-paid
+444,Isabella Santos,Patrick Ortega,Accident Insurance,1,CALABARZON,Rizal,Monthly,4118.44,49421.32,12,1500000,Lapsed,4942.13,13/06/2017 0:00,,,49421.32,not-fully-paid
+450,Juan Villanueva,Patrick Ortega,Term Life,20,NCR,Makati,Quarterly,4296.75,17187.01,4,750000,Lapsed,1718.7,21/09/2023 0:00,,,343740.2,not-fully-paid
+453,Clara Lim,John Michael Cruz,Whole Life,65,CALABARZON,Rizal,Monthly,794.64,9535.69,12,750000,Lapsed,953.57,12/11/2022 0:00,,,619819.85,not-fully-paid
+461,Ana Pascual,David Lim,VUL,25,CALABARZON,Quezon,Quarterly,7338.72,29354.86,4,1000000,Lapsed,2935.49,20/07/2018 0:00,,,733871.5,not-fully-paid
+473,Angela Navarro,David Lim,VUL,25,NCR,Taguig,Annually,14569.61,14569.61,1,1000000,Lapsed,1456.96,30/08/2024 0:00,,,364240.25,not-fully-paid
+477,Clara Navarro,Ana Patricia Garcia,Accident Insurance,1,CALABARZON,Rizal,Monthly,11316.03,135792.33,12,5000000,Lapsed,13579.23,16/02/2022 0:00,,,135792.33,not-fully-paid
