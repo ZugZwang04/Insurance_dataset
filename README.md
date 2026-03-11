@@ -8,11 +8,13 @@ Project Overview:
 - Data Loading: Loaded the transformed data into a MySQL database.
 - Querying & Optimization: Wrote SQL queries to analyze data, demonstrate complex joins, window functions, aggregations, and optimize query performance.
 - Backup & Maintenance: Showcased database backup and recovery techniques, ensuring data security and reliability.
+- Data Visualization Dashboard: Created an interactive Excel dashboard to visualize key insurance metrics, trends, and insights, allowing easy exploration of the dataset without SQL.
 
 Key Skills:
 - Python (Pandas) for data inspection, cleaning, and transformation
 - MySQL for database design, querying, and optimization
 - Database normalization and relational schema design
 - SQL backup and data management
+- Excel dashboard creation for interactive data visualization
 
 This project demonstrates practical experience in bridging data engineering and database administration, with a focus on structured, clean, and query-ready data.
